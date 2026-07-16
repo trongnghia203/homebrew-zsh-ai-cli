@@ -1,8 +1,8 @@
 class ZshAiCli < Formula
   desc "Backend-agnostic Zsh AI assistant that converts language to shell commands"
   homepage "https://github.com/trongnghia203/zsh-ai-cli"
-  url "https://registry.npmjs.org/zsh-ai-cli/-/zsh-ai-cli-0.1.1.tgz"
-  sha256 "31fd45f1c225301241b1d0fcc0ec41173f44b26bbae49ce70b0fd3ccfda3200c"
+  url "https://registry.npmjs.org/zsh-ai-cli/-/zsh-ai-cli-0.1.2.tgz"
+  sha256 "7f2aae04f2e010ca8d44503d4c79e691b16ae69a5f1bb46b6bee74ede17c745c"
   license "MIT"
 
   depends_on "node"
